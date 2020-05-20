@@ -21,9 +21,9 @@ Bij veel opdrachten die je aan PHP geeft moet je een bepaalde waarde meegeven. A
 Kijk maar eens naar de syntax van een echo statement op: https://www.w3schools.com/php/func_string_echo.asp
 >
 ## Leerdoelen
->1. [ ] Ik weet wat syntax is
->2. [ ] Ik volg de juiste regels bij het schrijven van code
->3. [ ] Ik ken (een deel van) de verschillende karakters die in PHP voorkomen
+>1. [x ] Ik weet wat syntax is
+>2. [ x] Ik volg de juiste regels bij het schrijven van code
+>3. [ x] Ik ken (een deel van) de verschillende karakters die in PHP voorkomen
 
 ## Opdracht
 
